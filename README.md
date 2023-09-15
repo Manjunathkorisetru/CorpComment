@@ -1,6 +1,8 @@
 # CorpComment
  Give Feedback. Publicly.
 
+## Link to the Web App
+https://corp-comment.netlify.app/
 
 ## About
 
